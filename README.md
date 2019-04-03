@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello World,
+
+I am Ethan Whitaker. I currently study Applications Development at Gaston College.
